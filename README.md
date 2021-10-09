@@ -1,4 +1,4 @@
-ml-deployment-on-gcloud/
+Capacitaciones/
 ├── README.md
 ├── cloudbuild.yaml
 ├── Dockerfile
